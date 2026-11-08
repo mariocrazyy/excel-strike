@@ -9,7 +9,13 @@ Excel-Strike is a Counter-Strike 2 external ImGui application originally develop
 - Original functionality preserved
 - Updated application icon and branding
 - Excel-inspired interface
-- Opens with the "Right-Shift" key only! (End is still the exit key still)
+- Opens with the "Right-Shift" key only! (End is still the exit key)
+
+## Donations
+
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bitcoin.svg" width="18"> **Bitcoin (BTC)**
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ethereum.svg" width="18"> **Ethereum (ETH)**
+- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/solana.svg" width="18"> **Solana (SOL)**
 
 ## Credits & License
 
@@ -22,4 +28,5 @@ Modified and rebranded as Excel-Strike.
 Licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
 
 ## Disclaimer
+
 Not affiliated with Microsoft Corporation or Valve Corporation.
