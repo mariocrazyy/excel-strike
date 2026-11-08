@@ -13,9 +13,9 @@ Excel-Strike is a Counter-Strike 2 external ImGui application originally develop
 
 ## Donations
 
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/bitcoin.svg" width="18"> **Bitcoin (BTC)**
-- <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/ethereum.svg" width="18"> **Ethereum (ETH)**
-- <img src="https://images.seeklogo.com/logo-png/64/1/solana-logo-png_seeklogo-640266.png" width="18"> **Solana (SOL)**
+- **₿ Bitcoin (BTC)**
+- **Ξ Ethereum (ETH)**
+- **◎ Solana (SOL)**
 
 ## Credits & License
 
