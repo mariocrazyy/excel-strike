@@ -9,7 +9,7 @@ Excel-Strike is a Counter-Strike 2 external ImGui application originally develop
 - Original functionality preserved
 - Updated application icon and branding
 - Excel-inspired interface
-- Opens with the "Right-Shift" key only!
+- Opens with the "Right-Shift" key only! (End is still the exit key still)
 
 ## Credits & License
 
