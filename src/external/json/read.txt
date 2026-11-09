@@ -1,1 +1,1 @@
-Please download the source code of json into this folder, then you can delete this txt if you want!
+Please download the source code of JSON into this folder, then you can delete this txt if you want!
