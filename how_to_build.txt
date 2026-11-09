@@ -1,0 +1,22 @@
+Build (Windows)
+===============
+
+|==============---------------------------------------------------======|
+Requirements:                                                           |
+- Zig, with `zig` available on PATH                                     |
+- MinGW-w64 binutils, with `windres` available on PATH                  |
+   (Powershell or CMD doesn't matter --> winget install -e --id zig.zig)|
+|=======-------------------------------------------------------=========|
+
+Steps:
+1. Open Command Prompt in the project root (the folder containing `Excel-Strike.sln`).
+2. Run:
+
+   scripts\build.bat
+
+The script compiles the x64 Windows GNU target. On success, the executable is:
+
+   x64\x86_64-windows-gnu\excel.exe
+
+Run the script from the project root. It cleans generated files from the output
+directory, so avoid keeping unrelated files there.
